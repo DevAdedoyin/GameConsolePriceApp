@@ -89,6 +89,5 @@ public class RecyclerViewCustomAdapter extends RecyclerView.Adapter<RecyclerView
             ButterKnife.bind(this, itemView);
 
         }
-
     }
 }
